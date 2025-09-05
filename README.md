@@ -1,7 +1,7 @@
 ## 한지용
 
 ### ✉ ruff1376@gmail.com
-### [Notion](https://www.notion.so/233a8fd1882f80e3864ed65ac9b5a691)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="24" /> [Notion](https://www.notion.so/233a8fd1882f80e3864ed65ac9b5a691)
 
 ## 🛠 Skills
 <table>
