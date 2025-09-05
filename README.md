@@ -1,6 +1,9 @@
-## Hi there 👋
+## 한지용
 
-### 🛠 Skills
+### ✉ ruff1376@gmail.com
+### [Notion](https://www.notion.so/233a8fd1882f80e3864ed65ac9b5a691)
+
+## 🛠 Skills
 <table>
   <tr>
     <th>💻 Language</th>
@@ -38,6 +41,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 주요 프로젝트
+| 제목 | 링크 | 설명 | 진행 기간 |
+|------|------|------|------------|
+| Resonos (React) | [github.com/Lee-0210/Resonos_React](https://github.com/Lee-0210/Resonos_React) | 음악 리뷰 및 아티스트 커뮤니티 웹페이지 (기존 Resonos + React) | 2025.08.06 ~ 2025.08.27 |
+| Resonos | [github.com/ruff1376/Resonos](https://github.com/ruff1376/Resonos) | 음악 리뷰 커뮤니티 웹페이지 (Spring Boot, MyBatis, Thymeleaf 등) | 2025.06.26 ~ 2025.07.22 |
+| 할건해야짐 | [github.com/ruff1376/AI3_MINI1_TEAM3](https://github.com/ruff1376/AI3_MINI1_TEAM3) | 헬스장 통합 관리 웹페이지 (팀 프로젝트, Java/JavaScript 중심) | 2025.05.16 ~ 2025.05.28 |
+
+---
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruff1376&show_icons=true&theme=transparent)
