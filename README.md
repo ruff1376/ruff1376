@@ -55,9 +55,12 @@
 
 ---
 
+## 💳 자격증
+- SQL개발자(SQLD) - 2025.06.27
+- 데이터분석준전문가(ADsP) - 2023.09.15
+- 정보처리기사(필기합격) - 2025.06.11
 
-
-
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruff1376&show_icons=true&theme=transparent)
 
